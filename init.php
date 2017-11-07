@@ -14,4 +14,4 @@
 //      Регистрация компонента страницы
 //##################################################
 $components_directory = '/packages/larakit/sf-angular-file-injector/components/';
-\Larakit\LkNgComponent::register('adminlte-clipboard', $components_directory);
+\Larakit\LkNgComponent::register('adminlte-injector-clipboard', $components_directory);
